@@ -21,5 +21,5 @@ This repository contains a curated list of research papers and resources focusin
 Overview of Vision-Language Tasks of the Layers of Comics Understanding. The ranking is based on input and output modalities and dimensions, as illustrated in the paper
 
 <p align="center">
-    <img src="imgs/locu.png" style="max-width:1000px">
+    <img src="locu2.png" style="max-width:1000px">
 </p>
