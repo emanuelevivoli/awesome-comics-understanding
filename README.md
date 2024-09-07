@@ -16,7 +16,7 @@ This repository contains a curated list of research papers and resources focusin
 
 ## 📣 Latest News 📣
 - 🚧 This repo is a work in progress, please [contribute here](#how-to-contribute-)
-- **`middle of September 2024`** Our survey paper will be drop in arXiv !!
+- **`middle of September 2024`** Our survey paper will be dropped in arXiv !!
 
 # 📚 Table of Contents
 
@@ -26,7 +26,7 @@ Overview of Vision-Language Tasks of the Layers of Comics Understanding. The ran
     <img src="imgs/locu.png" style="max-width:1000px">
 </p>
 
-## Layers of Comics Understading
+## Layers of Comics Understanding
 
 - **Layer 1: Tagging and Augmentation**
     - <details>
@@ -561,13 +561,13 @@ Overview of Vision-Language Tasks of the Layers of Comics Understanding. The ran
       - **IIAI-AAI**: International Congress on Advanced Applied Informatics
       - **MMM**: Multimedia Modeling
       - **LREC**: International Conference on Language Resources and Evaluation
-      - **MTA**: Multimed Tools and Applications
+      - **MTA**: Multimedia Tools and Applications
       - **ICIT**: International Conference on Information Technology
       - **ICIAP**: International Conference on Image Analysis and Processing
       - **IJCNN**: International Joint Conference on Neural Networks
       - **ACPR**: IAPR Asian Conference on Pattern Recognition
       - **ICGC**: IEEE International Conference on Granular Computing
-      - **CAVW**: Computer Animation ans Virtual Worlds
+      - **CAVW**: Computer Animation and Virtual Worlds
       - **MM-TA**: Multimedia Tools and Applications
       - **DICTA**: International Conference on Digital Image Computing: Techniques and Applications
       - **UIST**: ACM Symposium on User Interface Software and Technology
@@ -589,13 +589,13 @@ Overview of Vision-Language Tasks of the Layers of Comics Understanding. The ran
       - **IWAIT**: International Workshop on Advanced Image Technology
       - **ISPACS**: Symposium on Intelligent Signal Processing and Communication Systems
       - **SIGCSE**: ACM Technical Symposium on Computer Science Education
-      - **ISM**: IEEE International Symposim in Multimedia
+      - **ISM**: IEEE International Symposium in Multimedia
 </details>
 
 # How to Contribute 🚀
 
 You can contribute in two ways:
-1. The easiest is open an Issue and we can discuss if there are missing papers, wrong association or links, or mispelled venues.
+1. The easiest is to open an Issue (see an example in issue #1) and we can discuss if there are missing papers, wrong associations or links, or misspelled venues.
 2. The second one is making a pull request with the implemented changes, following the steps:
    1. Fork this repository and clone it locally.
    2. Create a new branch for your changes: `git checkout -b feature-name`.
@@ -607,4 +607,4 @@ This project is in constant development, and we welcome contributions to include
 
 # Acknowledge
 
-Thanks to [Beppe Folder](https://github.com/giuseppecartella) that inspired the ✨**style**✨ of this repository. Many thanks to my co-authors for taking the time in helping me with the various refactoring of the survey, and many thanks to [Artemis Llabrés](https://scholar.google.com/citations?user=0VToXYcAAAAJ) for heping revising the final versions.
+Thanks to [Beppe Folder](https://github.com/giuseppecartella) that inspired the ✨**style**✨ of this repository. Many thanks to my co-authors for taking the time to help me with the various refactoring of the survey, and many thanks to [Artemis Llabrés](https://scholar.google.com/citations?user=0VToXYcAAAAJ) for helping revise the final versions.
