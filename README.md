@@ -607,4 +607,5 @@ This project is in constant development, and we welcome contributions to include
 
 # Acknowledge
 
-Thanks to [Beppe Folder](https://github.com/giuseppecartella) that inspired the ✨**style**✨ of this repository. Many thanks to my co-authors for taking the time to help me with the various refactoring of the survey, and many thanks to [Artemis Llabrés](https://scholar.google.com/citations?user=0VToXYcAAAAJ) for helping revise the final versions.
+Many thanks to my co-authors for taking the time to help me with the various refactoring of the survey, and many thanks to [Artemis Llabrés](https://scholar.google.com/citations?user=0VToXYcAAAAJ) for helping revise the final versions.
+Thanks to [Beppe Folder](https://github.com/giuseppecartella) for its [Awesome Human Vision Attention repo](https://github.com/aimagelab/awesome-human-visual-attention) that inspired the ✨**style**✨ of this repository. 
