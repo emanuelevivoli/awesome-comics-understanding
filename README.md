@@ -20,13 +20,19 @@ This repository contains a curated list of research papers and resources focusin
 
 # 📚 Table of Contents
 
-Overview of Vision-Language Tasks of the Layers of Comics Understanding. The ranking is based on input and output modalities and dimensions, as illustrated in the paper
+Overview of Vision-Language Tasks of the Layers of Comics Understanding. The ranking is based on input and output modalities and dimensions, as illustrated in the paper.
 
 <p align="center">
     <img src="imgs/locu.png" style="max-width:1000px">
 </p>
 
 ## Layers of Comics Understanding
+
+Every survey worthy of the name includes illustrative visuals to enhance understanding. We've followed this approach by providing examples for each task in the Layer of Comics Understanding.
+
+<p align="center">
+    <img src="imgs/locu-illustration.png" style="max-width:1000px">
+</p>
 
 - **Layer 1: Tagging and Augmentation**
     - <details>
