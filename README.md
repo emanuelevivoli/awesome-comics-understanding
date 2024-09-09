@@ -11,6 +11,7 @@ This repository contains a curated list of research papers and resources focusin
 [**Emanuele Vivoli**](https://scholar.google.com/citations?user=BCzPjawAAAAJ),
 [**Andrey Barsky**](https://scholar.google.com/citations?hl=en&user=wWYzhSEAAAAJ),
 [**Mohamed Ali Souibgui**](https://scholar.google.com/citations?user=LXq3YYMAAAAJ),
+[**Artemis Llabrés**](https://scholar.google.com/citations?user=0VToXYcAAAAJ),
 [**Marco Bertini**](https://scholar.google.com/citations?user=SBm9ZpYAAAAJ),
 [**Dimosthenis Karatzas**](https://scholar.google.com/citations?user=xASEtrUAAAAJ)
 
@@ -613,5 +614,5 @@ This project is in constant development, and we welcome contributions to include
 
 # Acknowledge
 
-Many thanks to my co-authors for taking the time to help me with the various refactoring of the survey, and many thanks to [Artemis Llabrés](https://scholar.google.com/citations?user=0VToXYcAAAAJ) for helping revise the final versions.
-Thanks to [Beppe Folder](https://github.com/giuseppecartella) for its [Awesome Human Vision Attention repo](https://github.com/aimagelab/awesome-human-visual-attention) that inspired the ✨**style**✨ of this repository. 
+Many thanks to my co-authors for taking the time to help me with the various refactoring of the survey.
+Thanks to [Beppe Folder](https://github.com/giuseppecartella) for its [Awesome Human Visual Attention repo](https://github.com/aimagelab/awesome-human-visual-attention) that inspired the ✨**style**✨ of this repository.
