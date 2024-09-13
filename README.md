@@ -638,6 +638,10 @@ You can contribute in two ways:
 
 This project is in constant development, and we welcome contributions to include the latest research papers in the field or report issues 💥💥.
 
+# Star History ⭐
+
+[![Star History Chart](https://api.star-history.com/svg?repos=emanuelevivoli/awesome-comics-understanding&type=Timeline)](https://star-history.com/#emanuelevivoli/awesome-comics-understanding&Timeline)
+
 # Acknowledge
 
 Many thanks to my co-authors for taking the time to help me with the various refactoring of the survey.
