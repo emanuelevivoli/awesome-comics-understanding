@@ -4,7 +4,7 @@ This repository contains a curated list of research papers and resources focusin
 
 ## 🔜 on Arxiv (stay tuned)
 
-🔥🔥 [*A missing piece in Vision and Language: Survey on Comics Understanding*](http://github.com/emanuelevivoli/awesome-comics-understanding) 🔥🔥
+🔥🔥 [*A missing piece in Vision and Language: Survey on Comics Understanding*](https://arxiv.org/abs/2409.09502) 🔥🔥
 \
 \
 **Authors:** 
@@ -17,7 +17,7 @@ This repository contains a curated list of research papers and resources focusin
 
 ## 📣 Latest News 📣
 - 🚧 This repo is a work in progress, please [contribute here](#how-to-contribute-)
-- **`middle of September 2024`** Our survey paper will be dropped in arXiv !!
+- **`17 September 2024`** Our survey paper have dropped in [arXiv](https://arxiv.org/abs/2409.09502) !!
 
 # 📚 Table of Contents
 
