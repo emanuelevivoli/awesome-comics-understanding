@@ -2,12 +2,9 @@
 
 This repository contains a curated list of research papers and resources focusing on Comics Understanding.
 
-## 🔜 on Arxiv (stay tuned)
-
-🔥🔥 [*A missing piece in Vision and Language: Survey on Comics Understanding*](https://arxiv.org/abs/2409.09502) 🔥🔥
-\
-\
-**Authors:** 
+### [![arXiv](https://img.shields.io/badge/arXiv-2409.09502-b31b1b.svg)](https://arxiv.org/abs/2409.09502) 
+### 🔥 [*One missing piece in Vision and Language: A Survey on Comics Understanding*](https://arxiv.org/abs/2409.09502) 🔥
+**Authors:**
 [**Emanuele Vivoli**](https://scholar.google.com/citations?user=BCzPjawAAAAJ),
 [**Andrey Barsky**](https://scholar.google.com/citations?hl=en&user=wWYzhSEAAAAJ),
 [**Mohamed Ali Souibgui**](https://scholar.google.com/citations?user=LXq3YYMAAAAJ),
@@ -17,7 +14,7 @@ This repository contains a curated list of research papers and resources focusin
 
 ## 📣 Latest News 📣
 - 🚧 This repo is a work in progress, please [contribute here](#how-to-contribute-)
-- **`17 September 2024`** Our survey paper have dropped in [arXiv](https://arxiv.org/abs/2409.09502) !!
+- **`14 September 2024`** Our survey paper have dropped in [arXiv](https://arxiv.org/abs/2409.09502) !!
 
 # 📚 Table of Contents
 
@@ -29,15 +26,15 @@ Overview of Vision-Language Tasks of the Layers of Comics Understanding. The ran
 
 ## Layers of Comics Understanding
 
-Every survey worthy of the name includes illustrative visuals to enhance understanding. We've followed this approach by providing examples for each task in the Layer of Comics Understanding.
-
-<p align="center">
-    <img src="imgs/locu-illustration.png" style="max-width:1000px">
-</p>
+Every survey worthy of the name includes illustrative visuals to enhance understanding. We've followed this approach by providing examples for each task in the Layer of Comics Understanding.\
+Go check every Layer's tasks image ⬇️.
 
 ### **Layer 1: Tagging and Augmentation**
     
 - #### Tagging
+    <p align="left">
+        <img src="imgs-tasks/1.tagging.png" style="max-width:500px">
+    </p>
 
   - <details>
       <summary>Image classification</summary>
@@ -83,6 +80,9 @@ Every survey worthy of the name includes illustrative visuals to enhance underst
   </details>
 
 - #### Augmentation ( Image-2-Image )
+    <p align="left">
+        <img src="imgs-tasks/2.augmentation.png" style="max-width:500px">
+    </p>
 
   - <details>
       <summary>Image Super-Resolution</summary>
@@ -139,6 +139,9 @@ Every survey worthy of the name includes illustrative visuals to enhance underst
 ### **Layer 2: Grounding, Analysis and Segmentation**
     
 - #### Grounding
+    <p align="left">
+        <img src="imgs-tasks/3.grounding.png" style="max-width:500px">
+    </p>
 
     - <details>
         <summary>Object detection</summary>
@@ -203,6 +206,9 @@ Every survey worthy of the name includes illustrative visuals to enhance underst
     </details>
     
 -  #### Analysis
+    <p align="left">
+        <img src="imgs-tasks/4.analysis.png" style="max-width:500px">
+    </p>
 
     - <details>
         <summary>Text-Character association</summary>
@@ -250,7 +256,10 @@ Every survey worthy of the name includes illustrative visuals to enhance underst
     </details>
 
 -  #### Segmentation
-    
+    <p align="left">
+        <img src="imgs-tasks/5.segmentation.png" style="max-width:500px">
+    </p>
+
     - <details>
         <summary>Instance Segmentation</summary>
         
@@ -264,6 +273,9 @@ Every survey worthy of the name includes illustrative visuals to enhance underst
 ### **Layer 3: Retrieval and Modification**
 
 - #### Retrieval
+    <p align="left">
+        <img src="imgs-tasks/6.retrieval.png" style="max-width:500px">
+    </p>
 
     - <details>
         <summary>Image-Text Retrieval</summary>
@@ -311,6 +323,9 @@ Every survey worthy of the name includes illustrative visuals to enhance underst
     </details>
 
 - #### Modification
+    <p align="left">
+        <img src="imgs-tasks/7.modification.png" style="max-width:500px">
+    </p>
 
     - <details>
         <summary>Image Impainting and Editing</summary>
@@ -325,6 +340,9 @@ Every survey worthy of the name includes illustrative visuals to enhance underst
 ### **Layer 4: Understanding**
 
 -   #### Understanding
+    <p align="left">
+        <img src="imgs-tasks/8.understanding.png" style="max-width:500px">
+    </p>
 
     - <details>
         <summary>Visual Entailment</summary>
@@ -332,7 +350,6 @@ Every survey worthy of the name includes illustrative visuals to enhance underst
 
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
-        
     </details>
     
     - <details>
@@ -369,6 +386,9 @@ Every survey worthy of the name includes illustrative visuals to enhance underst
 ### **Layer 5: Generation and Synthesis**
 
 -   #### Generation
+    <p align="left">
+        <img src="imgs-tasks/9.generation.png" style="max-width:500px">
+    </p>
 
     - <details>
         <summary>Comics generation from other media</summary>
@@ -455,6 +475,9 @@ Every survey worthy of the name includes illustrative visuals to enhance underst
     </details>
     
 - #### Synthesis
+    <p align="left">
+        <img src="imgs-tasks/10.synthesis.png" style="max-width:500px">
+    </p>
 
     - <details>
         <summary>3D Generation from Images</summary>
