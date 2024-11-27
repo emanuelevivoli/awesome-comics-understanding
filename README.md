@@ -56,7 +56,7 @@ Go check every Layer's tasks image ⬇️.
       |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
       |   2023   |      MMM      | Manga Text Detection with Manga-Specific Data Augmentation and Its Applications on Emotion Analysis | *Yang, Yi-Ting et al.* | [📜 Paper](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_3) |
       |   2021   |     ICDAR      | Competition on Multimodal Emotion Recognition on Comics Scenes | *Nguyen, Nhu-Van et al.* | [📜 Paper](https://dl.acm.org/doi/10.1007/978-3-030-86337-1_51), [👨‍💻 Code](https://github.com/shwetkm/Multimodal-Emotion-Recognition-on-Comics-scenes-EmoRecCom) |
-      |   2016   |      MANPU (ACM Workshop)     | Manga Content Analysis Using Physiological Signals | *Sanches, Charles Lima et al.* | [📜 Paper](https://dl.acm.org/doi/10.1145/3011549.3011555) |
+      |   2016   |      MANPU (ICPR)     | Manga Content Analysis Using Physiological Signals | *Sanches, Charles Lima et al.* | [📜 Paper](https://dl.acm.org/doi/10.1145/3011549.3011555) |
       |   2015   |      IIAI-AAI      | Relation Analysis between Speech Balloon Shapes and Their Serif Descriptions in Comic | *Tanaka, Hideki et al.* | [📜 Paper](https://ieeexplore.ieee.org/document/7373906) |
   </details>
 
@@ -65,6 +65,9 @@ Go check every Layer's tasks image ⬇️.
       
       | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
       |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
+      | 2024 | Arxiv | MangaUB: A Manga Understanding Benchmark for Large Multimodal Models | Ikuta, Hikaru et al. | [📜 Paper](https://arxiv.org/abs/2407.19034) |
+      |   2024   |      MANPU (ICDAR)    | ComicBERT: A Transformer Model and Pre-training Strategy for Contextual Understanding in Comics | *Soykan, Gurkan et al.* | [📜 Paper](https://api.semanticscholar.org/CorpusID:272694691), [👨‍💻 Code](https://github.com/gsoykan/comicbert) |
+      |   2024   |      ICDAR      | Multimodal Transformer for Comics Text-Cloze | *Vivoli, Emanuele et al.* | [📜 Paper](http://arxiv.org/abs/2403.03719) |
       |   2020   |      Arxiv      | A Comprehensive Study of Deep Video Action Recognition | *Zhu, Yi et al.* | [📜 Paper](http://arxiv.org/abs/2012.06567), [👨‍💻 Code](https://cv.gluon.ai/model_zoo/action_recognition.html) |
       |   2017   |      CVPR      | The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels in Comic Book Narratives | *Iyyer, Mohit et al.* | [📜 Paper](https://arxiv.org/abs/1611.05118) |
   </details>
@@ -149,6 +152,8 @@ Go check every Layer's tasks image ⬇️.
 
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
+        |   2024   |      MANPU (ICDAR)    | Comics Datasets Framework: Mix of Comics datasets for detection benchmarking | *Vivoli, Emanuele et al.* | [📜 Paper](https://arxiv.org/abs/2407.03540) |
+        |   2024   |      MANPU (ICDAR)    | A Comprehensive Gold Standard and Benchmark for Comics Text Detection and Recognition | *Gurkan Soykan et al.* | [📜 Paper](https://arxiv.org/abs/2212.14674), [👨‍💻 Code](https://github.com/gurkansoykan/comic-text-detection-benchmark) |
         |   2023   |      MMM      | Manga Text Detection with Manga-Specific Data Augmentation and Its Applications on Emotion Analysis | *Yang, \relax YT et al.* | [📜 Paper](https://dl.acm.org/doi/10.1007/978-3-031-27818-1_3) |
         |   2023   |   CSNT      | CPD: Faster RCNN-based DragonBall Comic Panel Detection | *Sharma, Rishabh et al.* | [📜 Paper](https://ieeexplore.ieee.org/document/10134577) |
         |   2022   |      IJDAR      | BCBId: First Bangla Comic Dataset and Its Applications | *Dutta, Arpita et al.* | [📜 Paper](https://doi.org/10.1007/s10032-022-00412-9) |
@@ -177,7 +182,7 @@ Go check every Layer's tasks image ⬇️.
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
         |   2024   |      Arxiv      | Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names | *Ragav Sachdeva et al.* | [📜 Paper](https://arxiv.org/abs/2408.00298), [👨‍💻 Code](https://github.com/ragavsachdeva/magi) |
-        |   2024   |      Arxiv      | CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding | *Emanuele Vivoli et al.* | [📜 Paper](https://arxiv.org/abs/2407.03550), [👨‍💻 Code](https://github.com/emanuelevivoli/comix-dataset) |
+        |   2024   |      NeurIPS      | CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding | *Emanuele Vivoli et al.* | [📜 Paper](https://arxiv.org/abs/2407.03550), [👨‍💻 Code](https://github.com/emanuelevivoli/CoMix) |
         |   2024   |      CVPR      | The Manga Whisperer: Automatically Generating Transcriptions for Comics | *Sachdeva, Ragav et al.* | [📜 Paper](http://arxiv.org/abs/2401.10224), [👨‍💻 Code](https://github.com/ragavsachdeva/magi) |
         |   2023   |      IET Image Processing      | Toward Cross-Domain Object Detection in Artwork Images Using Improved YoloV5 and XGBoosting | *Ahmad, Tasweer et al.* | [📜 Paper](https://api.semanticscholar.org/CorpusID:258159957) |
         |   2023   |      Arxiv      | Identity-Aware Semi-Supervised Learning for Comic Character Re-Identification | *Soykan, Gürkan et al.* | [📜 Paper](https://arxiv.org/abs/2308.09096) |
@@ -217,7 +222,8 @@ Go check every Layer's tasks image ⬇️.
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
         |   2024   |      Arxiv      | Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names | *Ragav Sachdeva et al.* | [📜 Paper](https://arxiv.org/abs/2408.00298), [👨‍💻 Code](https://github.com/ragavsachdeva/magi) |
-        |   2024   |      Arxiv      | CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding | *Emanuele Vivoli et al.* | [📜 Paper](https://arxiv.org/abs/2407.03550), [👨‍💻 Code](https://github.com/emanuelevivoli/comix-dataset) |
+        |   2024   |      NeurIPS      | CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding | *Emanuele Vivoli et al.* | [📜 Paper](https://arxiv.org/abs/2407.03550), [👨‍💻 Code](https://github.com/emanuelevivoli/CoMix) |
+        |   2024   |      MANPU (ICDAR)    | Spatially Augmented Speech Bubble to Character Association via Comic Multi-task Learning | *Soykan, Gurkan et al.* | [📜 Paper](https://api.semanticscholar.org/CorpusID:272694702) [💻 Code](https://github.com/gsoykan/spatially_augmented_comic_mtl) |
         |   2024   |      CVPR      | The Manga Whisperer: Automatically Generating Transcriptions for Comics | *Sachdeva, Ragav et al.* | [📜 Paper](http://arxiv.org/abs/2401.10224), [👨‍💻 Code](https://github.com/ragavsachdeva/magi) |
         |   2023   |      arXiv      | Manga109Dialog A Large-scale Dialogue Dataset for Comics Speaker Detection | *Li, Yingxuan et al.* | [📜 Paper](http://arxiv.org/abs/2306.17469) |
         |   2022   |      IIAI-AAI   | Algorithms for Estimation of Comic Speakers Considering Reading Order of Frames and Texts | *Omori, Yuga et al.* | [📜 Paper](https://ieeexplore.ieee.org/document/9894649/) |
@@ -241,7 +247,7 @@ Go check every Layer's tasks image ⬇️.
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
         |   2024   |      Arxiv      | Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names | *Ragav Sachdeva et al.* | [📜 Paper](https://arxiv.org/abs/2408.00298), [👨‍💻 Code](https://github.com/ragavsachdeva/magi) |
-        |   2024   |      Arxiv      | CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding | *Emanuele Vivoli et al.* | [📜 Paper](https://arxiv.org/abs/2407.03550), [👨‍💻 Code](https://github.com/emanuelevivoli/comix-dataset) |
+        |   2024   |      NeurIPS      | CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding | *Emanuele Vivoli et al.* | [📜 Paper](https://arxiv.org/abs/2407.03550), [👨‍💻 Code](https://github.com/emanuelevivoli/CoMix) |
         |   2024   |      CVPR      | The Manga Whisperer: Automatically Generating Transcriptions for Comics | *Sachdeva, Ragav et al.* | [📜 Paper](http://arxiv.org/abs/2401.10224), [👨‍💻 Code](https://github.com/ragavsachdeva/magi) |
         |   2023   |      arXiv      | Manga109Dialog A Large-scale Dialogue Dataset for Comics Speaker Detection | *Li, Yingxuan et al.* | [📜 Paper](http://arxiv.org/abs/2306.17469) |
     </details>
@@ -252,6 +258,14 @@ Go check every Layer's tasks image ⬇️.
 
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
+        |   2024   |  ArXiv | Context-Informed Machine Translation of Manga using Multimodal Large Language Models | *Lippmann, Philip et al.* | [📜 Paper](https://arxiv.org/abs/2411.02589), [👨‍💻 Code](https://github.com/plippmann/multimodal-manga-translation) |
+        |   2024   |  ArXiv | Large Language Models as Manga Translators: A Case Study | *Zhishen Yang et al.* | [paper](https://www.arxiv.org/abs/2405.05226) |
+        |   2024   |  ArXiv | Generating Visual Stories with Grounded and Coreferent Characters | *Danyang Liu et al.* | [paper](https://www.arxiv.org/abs/2409.13555) |
+        |   2024   |  ICKECS | The Future of Graphic Novel Translation: Fully Automated Systems | *Sandeep Singh et al.* | [paper](https://api.semanticscholar.org/CorpusID:271747919) |
+        |   2024   |  ACM Multimedia | Zero-Shot Character Identification and Speaker Prediction in Comics via Iterative Multimodal Fusion | *Yingxuan Li et al.* | [paper](https://api.semanticscholar.org/CorpusID:272770579) |
+        |   2023   |  ArXiv | Multi-Teacher Knowledge Distillation For Text Image Machine Translation | *Cong Ma et al.* | [paper](https://www.arxiv.org/abs/2305.05226) |
+        |   2020   |  ArXiv | Towards Fully Automated Manga Translation | *Ryota Hinami et al.* | [paper](https://www.arxiv.org/abs/2012.14271) |
+        |   2014   |  inTRAlinea | Visual adaptation in translated comics | *Federico, Zanettin* | [paper](https://www.intralinea.org/archive/article/2079) |
         
     </details>
 
@@ -266,7 +280,8 @@ Go check every Layer's tasks image ⬇️.
 
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
-        |   2024   |      ECCV Worksop     | AI for Visual Art | *Bhattacharjee, Deblina et al.* | [👨‍💻 Code](https://github.com/IVRL/AI4VA) |
+        |   2024   |      AI4VA (ECCV)     | Unlocking Comics: The AI4VA Dataset for Visual Understanding | *Grönquist, Peter et al.* | [📜 Paper](https://arxiv.org/abs/2410.20459),[👨‍💻 Code](https://github.com/IVRL/AI4VA) |
+        |   2024   |      ICDAR      | Investigating Neural Networks and Transformer Models for Enhanced Comic Decoding | *Kouletou, Eleanna et al.* | [📜 Paper](https://arxiv.org/abs/2401.05953) |
         |   2022   |      DataverseNL     | The Visual Language Research Corpus (VLRC) Project | *Cohn, Neil* | [📜 Paper](https://doi.org/10.34894/LWMZ7G) |
     </details>
 
@@ -362,7 +377,7 @@ Go check every Layer's tasks image ⬇️.
         |   2021  |     Arxiv      | Towards Solving Multimodal Comprehension | *Sahu, Pritish et al.* | [📜 Paper](https://api.semanticscholar.org/CorpusID:233307454) |
         |   2020   |      MDPI-AS      | A Survey on Machine Reading Comprehension—Tasks, Evaluation Metrics and Benchmark Datasets | *Zeng, Changchang et al.* | [📜 Paper](https://www.mdpi.com/2076-3417/10/21/7640) |
         |   2017   |      IIWAS      | ComicQA: Contextual Navigation Aid by Hyper-Comic Representation | *Sumi, Yasuyuki et al.* | [📜 Paper](https://dl.acm.org/doi/10.1145/3151759.3151790) |
-        |   2016   |      MANPU      | Designing a Question-Answering System for Comic Contents | *Moriyama, Yukihiro et al.* | [📜 Paper](https://doi.org/10.1145/3011549.3011554) |
+        |   2016   |      MANPU (ICPR)    | Designing a Question-Answering System for Comic Contents | *Moriyama, Yukihiro et al.* | [📜 Paper](https://doi.org/10.1145/3011549.3011554) |
     </details>
 
     - <details>
@@ -428,7 +443,10 @@ Go check every Layer's tasks image ⬇️.
 
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
+        |   2024   | NeurIPS | Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions | *Hu, Zhe et al.* | [📜 Paper](https://arxiv.org/pdf/2405.19088) |
+        |   2024   |      AI4VA (ECCV)      | ComiCap: A VLMs pipeline for dense captioning of Comic Panels | *Vivoli, Emanuele et al.* | [📜 Paper](https://arxiv.org/abs/2409.16159) |
         |   2024   |  ICDAR | Multimodal Transformer for Comics Text-Cloze | *Vivoli, Emanuele et al.* | [📜 Paper](http://arxiv.org/abs/2403.03719) |
+        |   2024   |      MANPU (ICDAR)      | Toward Accessible Comics for Blind and Low Vision Readers | *Rigaud, Christophe et al.* | [📜 Paper](https://arxiv.org/abs/2407.08248) |
         |   2024   |      CVPR      | The Manga Whisperer: Automatically Generating Transcriptions for Comics | *Sachdeva, Ragav et al.* | [📜 Paper](http://arxiv.org/abs/2401.10224), [👨‍💻 Code](https://github.com/ragavsachdeva/magi) |
         |   2023   |      Arxiv      | Comics for Everyone: Generating Accessible Text Descriptions for Comic Strips | *Ramaprasad, Reshma et al.* | [📜 Paper](https://arxiv.org/abs/2310.00698) |
         |   2023   |      ACL      | Multimodal Persona Based Generation of Comic Dialogs | *Agrawal, Harsh et al.* | [📜 Paper](https://aclanthology.org/2023.acl-long.791) |
@@ -555,21 +573,21 @@ Go check every Layer's tasks image ⬇️.
       |                       | **COO** \[[proj](https://github.com/ku21fan/COO-Comic-Onomatopoeia)\]\[[data](https://github.com/manga109/public-annotations#comic-onomatopoeia-coo)\] | 2022     | ✅          | JP                 | 1970-2010  | 109         | 10602       |
       |                       | **COMICS-Text+** \[[proj](https://github.com/gsoykan/comics_text_plus)\]\[[data](https://github.com/gsoykan/comics_text_plus#getting-started)\] | 2022     | ✅          | EN                 | 1938-1954  | 3948        | 198657      |
       |                       | **PopManga** \[[proj](https://github.com/gsoykan/comics_text_plus)\]\[[data](https://github.com/gsoykan/comics_text_plus#getting-started)\] | 2024     | ✅          | EN                 | 1990-2020  | 25          | 1925        |
-      |                       | **CoMix** \[[proj](https://github.com/emanuelevivoli/CoMix-dataset)\]\[[data](https://rrc.cvc.uab.es/?ch=31)\] | 2024     | ✅          | EN, FR             | 1938-2023  | 100         | 3800        |
+      |                       | **CoMix** \[[proj](https://github.com/emanuelevivoli/CoMix)\]\[[data](https://rrc.cvc.uab.es/?ch=31)\] | 2024     | ✅          | EN, FR             | 1938-2023  | 100         | 3800        |
       | **Re-Identification** | **Fahad18** \[[proj](http://www.cat.uab.cat/Research/object-detection/)\]                               | 2012     | ❌          | -                  | -          | -           | 586         |
       |                       | **Ho42**                                                                                               | 2013     | ❌          | -                  | -          | -           | 42          |
       |                       | **Manga109** \[[proj](http://www.manga109.org/en/download.html)\]\[[data](http://www.manga109.org/en/download.html)\] | 2018     | ✅          | JP                 | 1970-2010  | 109         | 21142       |
       |                       | **PopManga** \[[proj](https://github.com/gsoykan/comics_text_plus)\]\[[data](https://github.com/gsoykan/comics_text_plus#getting-started)\] | 2024     | ✅          | EN                 | 1990-2020  | 25          | 1925        |
-      |                       | **CoMix** \[[proj](https://github.com/emanuelevivoli/CoMix-dataset)\]\[[data](https://rrc.cvc.uab.es/?ch=31)\] | 2024     | ✅          | EN, FR             | 1938-2023  | 100         | 3800        |
+      |                       | **CoMix** \[[proj](https://github.com/emanuelevivoli/CoMix)\]\[[data](https://rrc.cvc.uab.es/?ch=31)\] | 2024     | ✅          | EN, FR             | 1938-2023  | 100         | 3800        |
       | **Linking**           | **eBDtheque** \[[proj](https://ebdtheque.univ-lr.fr/)\]\[[data](https://ebdtheque.univ-lr.fr/registration/)\] | 2013     | ✅          | EN, FR, JP         | 1905-2012  | 25          | 100         |
       |                       | **sun70**                                                                                             | 2013     | ❌          | FR                 | -          | 6           | 60          |
       |                       | **GCN** \[[proj](https://groups.uni-paderborn.de/graphic-literature/gncorpus/corpus.php)\]\[[data](https://groups.uni-paderborn.de/graphic-literature/gncorpus/download.php)\] | 2017     | ❌          | EN, JP             | 1978-2013  | 253         | 38000       |
       |                       | **Manga109** \[[proj](http://www.manga109.org/en/download.html)\]\[[data](http://www.manga109.org/en/download.html)\] | 2018     | ✅          | JP                 | 1970-2010  | 109         | 21142       |
       |                       | **PopManga** \[[proj](https://github.com/gsoykan/comics_text_plus)\]\[[data](https://github.com/gsoykan/comics_text_plus#getting-started)\] | 2024     | ✅          | EN                 | 1990-2020  | 25          | 1925        |
-      |                       | **CoMix** \[[proj](https://github.com/emanuelevivoli/CoMix-dataset)\]\[[data](https://rrc.cvc.uab.es/?ch=31)\] | 2024     | ✅          | EN, FR             | 1938-2023  | 100         | 3800        |
+      |                       | **CoMix** \[[proj](https://github.com/emanuelevivoli/CoMix)\]\[[data](https://rrc.cvc.uab.es/?ch=31)\] | 2024     | ✅          | EN, FR             | 1938-2023  | 100         | 3800        |
       | **Segmentation**      | **Sequencity4k** \[[proj](http://www.manga109.org/en/download.html)\]                                 | 2020     | ⚠️          | EN, FR, JP         | -          | -           | 4479        |
       | **Dialog Generation** | **PopManga** \[[proj](https://github.com/gsoykan/comics_text_plus)\]\[[data](https://github.com/gsoykan/comics_text_plus#getting-started)\] | 2024     | ✅          | EN                 | 1990-2020  | 25          | 1925        |
-      |                       | **CoMix** \[[proj](https://github.com/emanuelevivoli/CoMix-dataset)\]\[[data](https://rrc.cvc.uab.es/?ch=31)\] | 2024     | ✅          | EN, FR             | 1938-2023  | 100         | 3800        |
+      |                       | **CoMix** \[[proj](https://github.com/emanuelevivoli/CoMix)\]\[[data](https://rrc.cvc.uab.es/?ch=31)\] | 2024     | ✅          | EN, FR             | 1938-2023  | 100         | 3800        |
       | **Unknown**           | **VLRC** \[[proj](https://dataverse.nl/)\]\[[data](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/LWMZ7G)\] | 2023     | ❌          | JP, FR, EN, 6+     | 1940-present | 376         | 7773        |
 
       
@@ -647,6 +665,14 @@ Go check every Layer's tasks image ⬇️.
       - **SIGCSE**: ACM Technical Symposium on Computer Science Education
       - **ISM**: IEEE International Symposium in Multimedia
 </details>
+
+# Links
+
+## 🔧 Tools & Repositories
+- [CoMix](https://github.com/emanuelevivoli/CoMix) - Framework for managing and benchmarking comics datasets
+- [ImageTrans](https://www.basiccat.org/imagetrans/) - Image translation for manga
+- [Manga Image Translator](https://github.com/zyddnys/manga-image-translator) - Manga image translation
+- [Comic Translate](https://github.com/ogkalu2/comic-translate) - Comic translation
 
 # How to Contribute 🚀
 
